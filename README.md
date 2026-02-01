@@ -57,7 +57,8 @@ Este diseño sirve como base para:
 ---
 
 ## 🧪 Simulación en Cisco Packet Tracer
-[📥 Descargar archivo .pkt](packet-tracer/infraestructura-vlan.pkt)
+
+[📥 Descargar archivo Enterprise_Vlans.Cisco.SP.pkt](packet-tracer/Enterprise_Vlans.Cisco.SP.pkt)
 
 ---
 
