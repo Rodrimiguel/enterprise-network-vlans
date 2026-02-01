@@ -63,7 +63,8 @@ Este diseño sirve como base para:
 ---
 
 ## 🖼 Diagramas visuales
-[📥 Descargar diagrama editable (.drawio)](diagrams/infraestructura-vlan.drawio)
+
+[📥 Descargar diagrama editable (.drawio)](diagrams/Red%20Vlans_AD.SU.DE.OF.drawio)
 
 ---
 
