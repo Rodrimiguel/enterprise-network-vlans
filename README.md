@@ -45,7 +45,8 @@ Este diseño sirve como base para:
 ---
 
 ## 📄 Documentación técnica
-[📥 Descargar PDF de configuración](docs/CALCULO-SUBNETEO.pdf)
+
+[📥 Descargar PDF de configuración](docs/Cálculo-subneteo.pdf)
 
 ---
 
