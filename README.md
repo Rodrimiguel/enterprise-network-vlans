@@ -51,7 +51,8 @@ Este diseño sirve como base para:
 ---
 
 ## 📊 Planilla de subneteo
-[📥 Descargar Excel](excel/Administracion-Sucursal-Deposito.xlsx)
+
+[📥 Descargar Excel (Administración, Sucursal y Depósito)](excel/Administración%2C%20Sucursal%20y%20Depósito.xlsx)
 
 ---
 
