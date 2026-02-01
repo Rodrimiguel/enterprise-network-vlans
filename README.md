@@ -34,13 +34,13 @@ Este diseño sirve como base para:
 ## 📸 Capturas de topología
 
 ### Administración
-![Red Administración](images/administracion.jpeg)
+![Red Administración](images/ADMINISTRACIÓN.jpg)
 
 ### Sucursal
-![Red Sucursal](images/sucursal.jpeg)
+![Red Sucursal](images/SUCURSAL.jpg)
 
 ### Depósito
-![Red Depósito](images/deposito.jpeg)
+![Red Depósito](images/DEPÓSITO.jpg)
 
 ---
 
